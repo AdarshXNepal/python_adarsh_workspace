@@ -1,0 +1,13 @@
+# Student Bio Generator :project 1🧑‍🎓
+
+This is a beginner-level Python project that generates a short biography of a student using user inputs. It uses:
+
+- Variables
+- Data types
+- Strings and string methods
+- f-strings
+- Type casting
+
+## How to Run
+```bash
+python project1.py
