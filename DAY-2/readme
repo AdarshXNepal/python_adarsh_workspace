@@ -1,0 +1,34 @@
+# 🎓 Student Bio Manager (Mini Python Project)
+
+This is a **console-based Python project** for managing student records. It allows users (like teachers or admins) to **add, search, update, delete, and view statistics** of student data — all without using loops.
+
+---
+
+## ✅ Features
+
+- 🔹 Add multiple student records (currently 2, without loops)
+- 🔍 Search student by name
+- ✏️ Update student information
+- 🗑️ Delete a student record
+- 📘 View all student bios in a clean format
+- 📊 Show statistics:
+
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Console (Command Line) Input/Output
+- Dictionaries 
+
+---
+
+## 🚀 How to Run
+
+1. Make sure Python is installed.
+2. Open a terminal or command prompt.
+3. Run the script:
+
+```bash
+python project2.py
