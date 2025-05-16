@@ -1,0 +1,50 @@
+# 🎮 Python Mini Projects by Adarsh
+
+This repository contains two cool beginner-friendly Python projects that use basic concepts like `input`, `if-else`, `functions`, and `random` to build interactive console applications.
+
+---
+
+## 🔊 Project 1: 🎵 Mood-Based Song Suggester
+
+A fun little script that asks the user for their current mood and suggests a song accordingly.
+
+### ✅ Features:
+- Accepts mood like `"happy"`, `"sad"`, `"angry"`, `"romantic"`, or `"chill"`
+- Suggests a song based on input
+- Uses only conditionals, no advanced logic
+
+### 📌 Sample Output:
+Enter your mood: happy
+🎧 Try listening to: 'Happy – Pharrell Williams'
+
+yaml
+Copy
+Edit
+
+---
+
+## 🐍 Project 2: Snake-Water-Gun Battle Arena
+
+A twist on the classic rock-paper-scissors game — fight the computer in 3 rounds of Snake-Water-Gun!
+
+### ✅ Game Rules:
+- Snake drinks Water → Snake wins
+- Water drowns Gun → Water wins
+- Gun shoots Snake → Gun wins
+
+### 💡 Features:
+- No loops (great for beginners learning functions)
+- Random computer choices
+- Tracks total score for 3 rounds
+- Declares final winner
+
+### 📌 Sample Output:
+🎲 Round 1
+Choose (snake / water / gun): snake
+🧍 You chose: snake
+💻 Computer chose: gun
+❌ Computer wins this round!
+...
+📊 Final Score:
+You: 2 | Computer: 1
+🎉 You are the champion!
