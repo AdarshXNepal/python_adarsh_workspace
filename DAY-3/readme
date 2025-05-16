@@ -1,0 +1,59 @@
+
+## ✅ `README.md` for Spam Comment Detector
+
+```markdown
+# 🚫 Spam Comment Detector
+
+A beginner-friendly Python project that detects spam comments based on specific spam phrases. Perfect for learning conditionals, loops, string handling, and basic logic in Python.
+
+## 📌 Features
+
+- Accepts multiple user comments.
+- Detects spam using common spam phrases.
+- Displays whether the comment is spam or clean.
+- Shows a summary of total, spam, and clean comments.
+
+## 🧠 Concepts Used
+
+- Python lists
+- For loops
+- If-else conditionals
+- String methods (`lower`, `in`)
+- User input and simple logic
+
+## 💻 How It Works
+
+1. User enters how many comments to check.
+2. Each comment is scanned for spam phrases like:
+   - "buy now"
+   - "click this"
+   - "make money"
+   - "subscribe"
+   - "visit here"
+3. Comments containing any spam phrase are flagged.
+4. Summary is shown at the end.
+
+## 🧪 Sample Output
+
+```
+
+How many comments do you want to check? 2
+
+Comment 1:
+Enter the comment: Subscribe now for free
+⚠️ Spam detected! Your comment may be flagged.
+
+Comment 2:
+Enter the comment: This video was really helpful
+✅ Thank you for your clean comment.
+
+\------ Summary ------
+Total Comments Checked: 2
+Spam Comments: 1
+Clean Comments: 1
+
+
+
+
+
+
