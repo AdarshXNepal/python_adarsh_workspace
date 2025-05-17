@@ -51,9 +51,3 @@ if content1 == content2:
 else:
     print("❌ The files are different.")
 
-# Wipe out all content in the file
-
-with open("target.txt", "w") as f:
-    f.write("")  # Writing empty string clears the file
-
-print("🧹 File content wiped successfully.")
